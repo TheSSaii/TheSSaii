@@ -1,4 +1,4 @@
-👋 Hi, I'm @_.TheSai_
+👋 Hi, I'm @TheSSaaii
 
 About Me
 
@@ -28,6 +28,6 @@ Interests:
 Goals
 Passionate about continuous learning and creating innovative software solutions that combine my love for technology and gaming.
 <!---
-SaMoAr/SaMoAr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TheSSaii/TheSSaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
