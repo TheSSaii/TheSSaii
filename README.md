@@ -9,14 +9,15 @@ About Me
 
 My Skills
 
-Languages: Python, HTML, CSS, Currently Learning Java and JavaScript
+Languages: Python, Java
 
 Technologies:
 
-Web Development
+Web Development with Java SpringBoot
 Database Management (MySQL)
 Version Control (Git)
-Containerization (Learning Docker)
+Containerization with docker
+
 
 
 Interests: 
