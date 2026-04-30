@@ -9,12 +9,12 @@ About Me
 
 My Skills
 
-Languages: Python, Java
+Languages: Python, Java, JavaScript
 
 Technologies:
 
 Web Development with Java SpringBoot
-Database Management (MySQL)
+Database Management (MySQL, PostgreSQL)
 Version Control (Git)
 Containerization with docker
 
