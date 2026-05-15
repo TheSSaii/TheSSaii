@@ -1,34 +1,66 @@
-👋 Hi, I'm @TheSSaaii
+# Hi, I'm Simón Morales (@TheSSaii)
 
-About Me
+Junior Software Developer focused on backend and fullstack web development.
 
-👀 I'm interested in software development, gaming emulation, technology innovation, and building interactive web applications
-🌱 I'm currently learning Java, JavaScript, MySQL, and Docker to expand my programming skills
-💞️ I'm looking to collaborate on open-source projects related to emulation, game development, or web technologies
-⚡ Fun fact: When I'm not coding, you can find me at the gym or trying to play the guitar properly for once 🤣
+Currently working with Java + Spring Boot ecosystems, containerized environments with Docker, relational databases, and modern JavaScript frameworks.
 
-My Skills
+---
 
-Languages: Python, Java, JavaScript
+## Tech Stack
 
-Technologies:
+### Backend
+- Java — Junior
+- Spring Boot — Junior
+- NestJS — Junior
+- REST APIs — Junior
 
-Web Development with Java SpringBoot
-Database Management (MySQL, PostgreSQL)
-Version Control (Git)
-Containerization with docker
+### Frontend
+- JavaScript — Junior
+- React — Junior
+- Vite — Junior
+- HTML5 — Intermediate
+- CSS3 — Intermediate
 
+### Databases
+- PostgreSQL — Junior
+- MySQL — Junior
+- Prisma ORM — Junior
+- Microsoft SQL Server — Junior
 
+### DevOps & Tools
+- Docker — Junior
+- Git & GitHub — Junior
+- Linux (Fedora) — Junior
 
-Interests: 
+---
 
-🎮 Gaming Emulation
-🎵 Music
-💡 Tech Innovation
+## Current Interests
 
-Goals
-Passionate about continuous learning and creating innovative software solutions that combine my love for technology and gaming.
-<!---
-TheSSaii/TheSSaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Backend architecture
+- API development
+- Containerized environments
+- Collaborative software systems
+- Fullstack web applications
+- Software scalability and maintainability
+
+---
+
+## Current Focus
+
+Building projects that improve:
+- clean architecture
+- backend scalability
+- team collaboration workflows
+- reproducible development environments
+
+---
+
+## Featured Technologies
+
+`Java` `Spring Boot` `Docker` `React` `NestJS` `PostgreSQL` `MySQL` `Prisma` `Git`
+
+---
+
+## Contact
+
+- GitHub: https://github.com/TheSSaii
