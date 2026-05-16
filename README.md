@@ -2,7 +2,7 @@
 
 Junior Software Developer focused on backend and fullstack web development.
 
-Currently working with Java + Spring Boot ecosystems, containerized environments with Docker, relational databases, and modern JavaScript frameworks.
+Currently working with containerized environments with Docker, relational databases, and modern JavaScript frameworks.
 
 ---
 
