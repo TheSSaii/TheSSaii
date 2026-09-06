@@ -1,6 +1,6 @@
 # Hi, I'm Simón Morales (@TheSSaii)
 
-Junior Software Engineer focused on web/Mobile Multiplatform apps .
+Software Engineering Student | Junior Web Developer | QA & Software Testing
 
 Currently working with containerized environments with Docker, relational databases, and modern JavaScript frameworks.
 
