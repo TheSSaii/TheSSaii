@@ -1,6 +1,6 @@
 # Hi, I'm Simón Morales (@TheSSaii)
 
-Junior Software Developer focused on backend and fullstack web development.
+Junior Software Engineer focused on web/Mobile Multiplatform apps .
 
 Currently working with containerized environments with Docker, relational databases, and modern JavaScript frameworks.
 
